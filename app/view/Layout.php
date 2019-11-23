@@ -16,6 +16,7 @@
     <div class="Nav">
         <a href="<?php echo DIRPAGE; ?>">Home</a>
         <a href="<?php echo DIRPAGE.'contato'; ?>">Contato</a>
+        <a href="<?php echo DIRPAGE.'contato'; ?>">Cadastro</a>
     </div>
     
     <div class="Header">
