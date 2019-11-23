@@ -1,0 +1,16 @@
+{
+    "name": "kaiocampos/mvc",
+    "authors": [
+        {
+            "name": "Kaio Campos",
+            "email": "kaiocamposti@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\":"../app/",
+            "Src\\":"../src/"
+        }
+    }
+}
