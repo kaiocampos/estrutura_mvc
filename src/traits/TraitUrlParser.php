@@ -1,6 +1,6 @@
 <?php
 //traits são pedaços de classes, ou classes auxiliadoras
-namespace Src\Traits;
+namespace Src\traits;
 
 trait TraitUrlParser{
 

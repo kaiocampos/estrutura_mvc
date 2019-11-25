@@ -15,6 +15,7 @@ if(substr($_SERVER['DOCUMENT_ROOT'],-1)=='/')
 #Diretórios Específicos
 define('DIRIMG',DIRPAGE."public/img/");
 define('DIRCSS',DIRPAGE."public/css/");
+define('DIRFAW',DIRPAGE."public/fontawesome/");
 define('DIRJS',DIRPAGE."public/js/");
 
 #Acesso ao banco de dados

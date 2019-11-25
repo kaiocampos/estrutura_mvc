@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Model;
+namespace App\model;
 #abstract so vai poder ser extendida, nunca estanciada
 abstract class ClassConexao{
     #Realiza a conexao com o banco de dados

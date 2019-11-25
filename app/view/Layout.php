@@ -9,6 +9,8 @@
     <meta name="keywords" content="<?php echo $this->getKeywords(); ?>">
     <title><?php echo $this->getTitle(); ?></title>
     <link rel="stylesheet" href="<?php echo DIRCSS.'Style.css' ?>">
+    <link rel="stylesheet" href="<?php echo DIRFAW.'css/all.css' ?>">DIRFAW
+    
     <?php echo $this->addHead(); ?>
 </head>
 
@@ -16,7 +18,8 @@
     <div class="Nav">
         <a href="<?php echo DIRPAGE; ?>">Home</a>
         <a href="<?php echo DIRPAGE.'contato'; ?>">Contato</a>
-        <a href="<?php echo DIRPAGE.'contato'; ?>">Cadastro</a>
+        <a href="<?php echo DIRPAGE.'cadastro'; ?>">Cadastro</a>
+        <a href="<?php echo DIRPAGE.'login'; ?>">Login</a>
     </div>
     
     <div class="Header">
