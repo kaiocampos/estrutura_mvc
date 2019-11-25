@@ -1,5 +1,5 @@
 <?php
-namespace Src\Interfaces;
+namespace Src\interfaces;
 
 interface InterfaceView{
     public function setDir($Dir);

@@ -38,7 +38,7 @@
     </div>
     
     <div class="Footer">
-        2019 - TODOS OS DIREITOS RESERVADOS WEBDESIGN EM FOCO <br>
+        2019 - TODOS OS DIREITOS RESERVADOS<br>
         <?php echo $this->addFooter(); ?>
     </div>
 </body>
