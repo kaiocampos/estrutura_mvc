@@ -9,7 +9,7 @@
     <meta name="keywords" content="<?php echo $this->getKeywords(); ?>">
     <title><?php echo $this->getTitle(); ?></title>
     <link rel="stylesheet" href="<?php echo DIRCSS.'Style.css' ?>">
-    <link rel="stylesheet" href="<?php echo DIRFAW.'css/all.css' ?>">DIRFAW
+    <link rel="stylesheet" href="<?php echo DIRFAW.'css/all.css' ?>">
     
     <?php echo $this->addHead(); ?>
 </head>
